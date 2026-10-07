@@ -1,0 +1,13 @@
+Backend Developer (Python) - Lagos / Remote
+
+We are hiring a backend developer to build and maintain REST APIs for our logistics platform.
+
+Requirements:
+- 3+ years of professional experience with Python
+- Strong experience with FastAPI or Django
+- SQL databases (PostgreSQL or MySQL)
+- Docker and Git
+- Writing automated tests with pytest
+- Good communication and teamwork
+
+Nice to have: AWS, CI/CD with GitHub Actions, basic cybersecurity awareness (OWASP).

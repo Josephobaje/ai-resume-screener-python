@@ -1,0 +1,24 @@
+[project]
+name = "ai-resume-screener"
+version = "1.0.0"
+description = "Rank resumes against a job description with TF-IDF similarity and skill matching (CLI + FastAPI)."
+authors = [{ name = "Joseph Obaje", email = "josephobaje264@gmail.com" }]
+license = { text = "MIT" }
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["pypdf>=5.0", "scikit-learn>=1.5", "fastapi>=0.115", "uvicorn[standard]>=0.30", "python-multipart>=0.0.9"]
+
+[project.scripts]
+resume-screener = "resume_screener.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["resume_screener"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+filterwarnings = ["ignore::DeprecationWarning"]

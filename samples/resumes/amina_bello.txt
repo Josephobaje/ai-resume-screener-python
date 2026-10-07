@@ -1,0 +1,20 @@
+Amina Bello
+Backend Engineer | amina.bello@example.com | +234 803 555 0101 | Abuja, Nigeria
+
+Summary
+Backend engineer with 5 years of experience building Python REST APIs for fintech and logistics companies.
+
+Skills
+Python, FastAPI, Django, PostgreSQL, MySQL, Docker, Git, GitHub Actions, AWS, pytest, Linux, OWASP Top 10
+
+Experience
+Senior Backend Engineer, PayQuick (2022 - present)
+- Designed FastAPI microservices handling 2M requests a day, backed by PostgreSQL.
+- Introduced pytest suites and CI/CD pipelines, raising coverage to 90%.
+- Led code reviews and mentored 3 junior developers; strong communication and teamwork.
+
+Backend Developer, ShipRight Logistics (2020 - 2022)
+- Built Django REST APIs for shipment tracking, containerised with Docker.
+
+Education
+B.Sc. Computer Science, Ahmadu Bello University
